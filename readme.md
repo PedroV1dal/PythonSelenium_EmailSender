@@ -9,6 +9,14 @@ Esse é um projeto em estado de desenvolvimento onde será feito a verificação
 - Chromium [https://www.chromium.org/getting-involved/download-chromium/]
 - Selenium
 
+## Features 
+- [x] Logar na conta e ir até a página da tabela
+- [x] Atualizar os dados da tabela e ordenar 
+- [x] Verificar a data do último evento e ver se passaram 24 horas 
+- [ ] Autenticar o email para envio automático
+- [ ] Adicionar os destinatários certos que receberão o email
+- [ ] Configurar para pegar o nome do terminal automaticamente no 'To' do email
+
 ## Configuração do projeto
 
 Clone o projeto para a sua máquina
@@ -39,12 +47,6 @@ Após criar o projeto, vá em 'Files' -> 'NewProject' e crie o projeto dentro da
 ### Sobre o Chromium 
 
 Verifique a versão do navegador do seu google chrome para baixar versão compatível do chromium com o seu chrome
-
-### Features 
-- [x] Logar na conta e ir até a página da tabela
-- [x] Atualizar os dados da tabela e ordenar 
-- [x] Verificar a data do último evento e ver se passaram 24 horas 
-- [ ] Autenticar o email para envio automático  
 
 ### Autor
 
