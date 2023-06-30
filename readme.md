@@ -40,6 +40,12 @@ Após criar o projeto, vá em 'Files' -> 'NewProject' e crie o projeto dentro da
 
 Verifique a versão do navegador do seu google chrome para baixar versão compatível do chromium com o seu chrome
 
+### Features 
+- [x] Logar na conta e ir até a página da tabela
+- [x] Atualizar os dados da tabela e ordenar 
+- [x] Verificar a data do último evento e ver se passaram 24 horas 
+- [ ] Autenticar o email para envio automático  
+
 ### Autor
 
 Pedro Vidal
