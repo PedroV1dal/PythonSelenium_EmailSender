@@ -1,6 +1,6 @@
 # Automatizador de Email
 
-Esse é um projeto em estado de desenvolvimento onde será feito a verificação dos horários de envios de email dos terminais no porto de Satos, e caso exceda um período superior a 24 horas, o email será disparado automaticamente
+Esse é um projeto em estado de desenvolvimento onde será feito a verificação dos horários de envios de email dos terminais no porto de Santos, e caso exceda um período superior a 24 horas, o email será disparado automaticamente
 
 ## Ferramentas
 
